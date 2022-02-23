@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap'); 
+
+body {
+    background-color: #121313 ;
+}
+
+h1 {
+    color: white;
+    font-family: Roboto;
+}
+
+.media-picture {
+    height: 400px;
+    background-image: url("https://static.globalnoticias.pt/dn/image.jpg?brand=DN&type=generate&guid=079f3ad0-2fad-47e1-aca9-7808ea61c0ef&w=800&h=450&t=20190927085824      ");
+    background-size: cover;
+    background-position: center;
+}
+
+.review-score{
+    color: white;
+    background-color: #e6bd09;
+    padding: 12px;
+}
+
+h2{
+    color: steelblue;
+}
+
+p {
+color: #bdbdbd;
+font-family: Roboto, sans-serif;
+}
+
+a {
+    color: yellow ;
+}
+
+
+
+
+
+/*
+cor do texto da tag p em modo hexadecimal no valor #bdbdbd
+fonte do texto da tag p para Roboto
+cor de texto da tag a em cor predefinida de nome ‘yellow’
+*/
